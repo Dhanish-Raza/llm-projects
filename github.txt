@@ -1,0 +1,15 @@
+git pull origin main
+git add .
+git commit -m "Your descriptive message"
+git push origin main
+
+
+git init 
+git remote add origin https://github.com/Dhanish-Raza/Food-Menu-App-Django.git
+git remote -v
+
+git pull origin main
+git add .
+git commit -m "Descriptive message"
+git push origin main
+
